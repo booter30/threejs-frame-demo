@@ -3,8 +3,8 @@
     "version": "0.0.0",
     "name": "Three.js Demo",
     "homeUrl": "https://threejs-frame-demo-p2ckkxn5a-seths-projects-d3f71e4e.vercel.app",
-    "iconUrl": "https://threejs-frame-demo-p2ckkxn5a-seths-projects-d3f71e4e.vercel.app/icon.png",
-    "splashImageUrl": "https://threejs-frame-demo-p2ckkxn5a-seths-projects-d3f71e4e.vercel.app/splash.png",
+    "iconUrl": "https://threejs-frame-demo-p2ckkxn5a-seths-projects-d3f71e4e.vercel.app/icon.svg",
+    "splashImageUrl": "https://threejs-frame-demo-p2ckkxn5a-seths-projects-d3f71e4e.vercel.app/splash.svg",
     "splashBackgroundColor": "#1e1e1e"
   }
 }
